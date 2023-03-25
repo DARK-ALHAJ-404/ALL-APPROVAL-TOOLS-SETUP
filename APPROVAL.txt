@@ -50,7 +50,7 @@ ALHAJ-DARK-345E780D59-2.0==
 ALHAJ-DARK-382CD91A7B-2.0==
 ALHAJ-DARK-B2DDB33CF7-2.0==
 ALHAJ-DARK-694F541419-2.0==  mim
-
+ALHAJ-DARK-4DAE0ACCA1-2.0==  Tamim
 
 
 =========>>>  Termux-All-Setup   <<<========
@@ -98,7 +98,7 @@ ALHAJ-DARK-694F541419-2.0==  mim
 1+∞0+∞0+∞8+∞6+∞u+∞0+∞_+∞a+∞8+∞6  Nobita
 1+∞0+∞3+∞2+∞4+∞u+∞0+∞_+∞a+∞3+∞2+∞4  Sakin
 1+∞0+∞1+∞0+∞5+∞u+∞0+∞_+∞a+∞1+∞0+∞5  Blank Id
-
+1+∞0+∞2+∞7+∞4+∞u+∞0+∞_+∞a+∞2+∞7+∞4  Nur Alom
 
 
 
